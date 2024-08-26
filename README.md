@@ -2,7 +2,7 @@
 Demo
 
 Player enter A
-![image](https://github.com/user-attachments/assets/f89b4b1c-1a8e-4454-a0b7-bec8527b7f97)
+![image](https://github.com/user-attachments/assets/f89b4b1c-1a8e-4454-a0b7-bec8527b7f97)<br>
 Player enter B
 ![image](https://github.com/user-attachments/assets/45dd3ccc-8221-4930-863e-e23d1d9ffb53)
 
