@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Chess-like Game</h1>
+      <h1>Turn-based chess-like game </h1>
       <div className="status">Current Turn: <strong>{gameState.currentPlayer}</strong></div>
       <GameBoard 
         board={gameState.board} 
