@@ -1,0 +1,120 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f0f0f0; /* Light background for the rest of the app */
+}
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; /* Center content vertically */
+  padding: 20px; /* Optional: add some padding around the app */
+}
+
+.game-board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+  background-color: black; /* Background color for the board */
+  padding: 10px; /* Padding around the board */
+  border-radius: 10px; /* Optional: rounded corners */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Add shadow for better visual effect */
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 60px;
+  height: 60px;
+  border: 2px solid white; /* Changed to white for better contrast */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.5em;
+  cursor: pointer;
+}
+
+.cell.A {
+  background-color: lightblue;
+  color: darkblue;
+}
+
+.cell.B {
+  background-color: lightcoral;
+  color: darkred;
+}
+
+.cell.empty {
+  background-color: rgb(56, 43, 43);
+}
+
+.cell.selected {
+  border: 2px solid rgb(243, 234, 186);
+}
+
+/* Prevent border disappearance on focus or active state */
+.cell:focus,
+.cell:active {
+  outline: none;
+  border: 2px solid white; /* Keep the border consistent on click */
+}
+
+.move-controls {
+  margin-bottom: 20px;
+}
+
+.move-controls button {
+  margin: 5px;
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+.status {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+}
+
+.move-history {
+  margin-top: 20px;
+}
+
+.move-history h2 {
+  margin-bottom: 10px;
+}
+
+.move-history ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.move-history li {
+  margin-bottom: 5px;
+  font-size: 1em;
+}
+
+.game-over {
+  margin-top: 20px;
+}
+
+.game-over h2 {
+  color: red;
+  margin-bottom: 20px;
+}
+
+.game-over button {
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+}
