@@ -25,10 +25,10 @@
 4. **Move Display for Player A:**
    ![Player A Moves](https://github.com/user-attachments/assets/20f2eaac-bc9f-4e50-9bcf-36ffff3d0a0a)
 
-5. **Game Start with Player A's Turn:**
+5. **Game Start with Player B's Turn:**
    ![Game Start A Turn](https://github.com/user-attachments/assets/3b46fc04-533a-4c60-bcfb-a0e49bbcb5a3)
 
-6. **Game Start with Player B's Turn:**
+6. **Game Start with Player A's Turn:**
    ![Game Start B Turn](https://github.com/user-attachments/assets/7f821dd5-366f-47be-b2d1-3777d85579ce)
 
 7. **Move History Display:**
