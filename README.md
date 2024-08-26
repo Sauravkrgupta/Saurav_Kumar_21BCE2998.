@@ -1,7 +1,12 @@
 # Saurav_kumar_21BCE2998
+Demo
+
+Player enter A
 ![image](https://github.com/user-attachments/assets/f89b4b1c-1a8e-4454-a0b7-bec8527b7f97)
+Player enter B
 ![image](https://github.com/user-attachments/assets/45dd3ccc-8221-4930-863e-e23d1d9ffb53)
 
+Board Came on both the sides of A and B
 ![image](https://github.com/user-attachments/assets/2ca36e5e-9fa9-45d7-9a0a-090a5650b2e4)
 ![image](https://github.com/user-attachments/assets/20f2eaac-bc9f-4e50-9bcf-36ffff3d0a0a)
 ![image](https://github.com/user-attachments/assets/3b46fc04-533a-4c60-bcfb-a0e49bbcb5a3)
