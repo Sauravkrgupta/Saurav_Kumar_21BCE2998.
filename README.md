@@ -64,7 +64,7 @@ This project is a chess-like game built using JavaScript for the server-side log
     npm start
     ```
 
-    The client will be available at `http://localhost:3000`.
+    The client will be available at `http://localhost:5173`.
 
 ## How to Play
 
