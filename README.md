@@ -1,4 +1,4 @@
-# Chess-Like Game
+# Turn-based chess-like game 
 
 **A turn-based strategy game with real-time multiplayer capabilities, inspired by the classic game of chess but with unique characters and movement mechanics. Built using JavaScript, WebSocket, and React.**
 
@@ -45,7 +45,7 @@
 
     ```bash
     git clone https://github.com/Sauravkrgupta/Saurav_Kumar_21BCE2998..git
-    cd chess-like-game
+    cd assignment
     ```
 
 2. **Install Dependencies:**
