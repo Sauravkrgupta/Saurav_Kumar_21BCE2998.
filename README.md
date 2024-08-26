@@ -8,13 +8,22 @@ Player enter B
 
 Board Came on both the sides of A and B
 ![image](https://github.com/user-attachments/assets/2ca36e5e-9fa9-45d7-9a0a-090a5650b2e4)
+
+Showing the moves of A when click on the button
 ![image](https://github.com/user-attachments/assets/20f2eaac-bc9f-4e50-9bcf-36ffff3d0a0a)
+
+Game started with A chance
 ![image](https://github.com/user-attachments/assets/3b46fc04-533a-4c60-bcfb-a0e49bbcb5a3)
 
-![image](https://github.com/user-attachments/assets/5bf2244b-80d1-45c2-9966-f40104e1af49)
+
+
+Game started with B chance
 ![image](https://github.com/user-attachments/assets/7f821dd5-366f-47be-b2d1-3777d85579ce)
 
+Showing all the moves history of each player seperately
 ![image](https://github.com/user-attachments/assets/11fc5970-875f-4546-b854-75362c4660ea)
+
+Game Winner
 ![image](https://github.com/user-attachments/assets/9112dcd8-ecce-4c4e-8a91-3079be82e4af)
 
 
